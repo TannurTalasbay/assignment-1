@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ffab0c25-a77a-495f-9d6f-d7b7215fd85f" name="Changes" comment="my first homework">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="ffab0c25-a77a-495f-9d6f-d7b7215fd85f" name="Changes" comment="I added a file with name MyApplication" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -80,11 +77,20 @@
       <option name="project" value="LOCAL" />
       <updated>1703411136565</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="I added a file with name MyApplication">
+      <option name="closed" value="true" />
+      <created>1703416619410</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1703416619410</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="my first homework" />
-    <option name="LAST_COMMIT_MESSAGE" value="my first homework" />
+    <MESSAGE value="I added a file with name MyApplication" />
+    <option name="LAST_COMMIT_MESSAGE" value="I added a file with name MyApplication" />
   </component>
 </project>
